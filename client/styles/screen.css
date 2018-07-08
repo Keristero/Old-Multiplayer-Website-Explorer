@@ -1,0 +1,16 @@
+#inputs {
+   display: inline-block;
+   text-align:left;
+   float:left;
+   margin:1em;
+}
+
+canvas {
+   display: inline-block;
+   border: 1px solid black;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
