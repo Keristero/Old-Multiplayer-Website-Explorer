@@ -8,4 +8,4 @@ Honestly I'm surpised this still works, atleast in chrome it does. WASD to move 
 If multiple people visit the same site, their positions will be synced using socket.io, but keep in mind that different browsers generate different layouts due to differences in random number generation.
 
 Here is is a screenshot showing some of the layout generated
-![screenshot]reademe/Capture.PNG)
+![screenshot](reademe/Capture.PNG)
